@@ -1,0 +1,2 @@
+https://github.com/TulipAggarwal/Sale-Analyser.git
+https://github.com/PetraLee2019/Python-Sales-Data-Analysis.git
