@@ -1,2 +1,22 @@
 https://github.com/TulipAggarwal/Sale-Analyser.git
 https://github.com/PetraLee2019/Python-Sales-Data-Analysis.git
+Là một nhà phân tích kinh doanh, bạn có thể sẽ làm việc với dữ liệu bán hàng vì nó đóng một vai trò quan trọng trong
+sự thành công thương mại của công ty bạn. Cho dù điều đó có nghĩa là hiểu doanh số bán hàng hiện tại hay dự đoán
+doanh số bán hàng trong tương lai, thì đây là kỹ năng chính mà nhà tuyển dụng tìm kiếm. Hồ sơ bán hàng thường
+chứa thông tin về khách hàng của công ty, đơn đặt hàng của khách hàng, lịch sử thanh toán, danh mục sản phẩm,
+v.v. Dữ liệu này cho phép bạn phân tích nhân khẩu học của khách hàng, họ mua sản phẩm nào, khi nào họ mua, họ
+tạo ra bao nhiêu doanh thu, cách thức họ phản ứng tốt với các chương trình khuyến mãi, v.v.
+Bạn có thể lấy một bộ dữ liệu có sẵn (như bộ dữ liệu này: Dữ liệu sản phẩm bán hàng - https://
+www.kaggle.com/datasets/knightbearr/sales-product-data ) và phân tích dữ liệu bán hàng từ nhiều khía cạnh
+khác nhau. Mục tiêu chính ở đây là trích xuất các chỉ số hiệu suất chính (KPI) cho phép bạn đưa ra quyết định
+dựa trên dữ liệu và cải thiện hoạt động kinh doanh của công ty bạn. Dưới đây là một số câu hỏi bạn có thể cố
+gắng trả lời trong một dự án về phân tích dữ liệu bán hàng::
+•+++++ Tổng số lượng bán ra là bao nhiêu?
+•+++++ Doanh số trung bình mỗi tháng là bao nhiêu?
+•+++++ Doanh thu hàng tháng là bao nhiêu?
+•+++++ Nhân khẩu học chính của khách hàng là gì?
+•+++++ Thị trường (quốc gia) nào tạo ra doanh thu trung bình cao nhất?
+•+++++ Lợi nhuận theo phân khúc là gì?
+•+++++ Khi nào là thời kỳ bán chạy nhất và tệ nhất?
+•+++++ Sản phẩm nào bán chạy nhất?
+Tiếp theo: Phân tích??????
