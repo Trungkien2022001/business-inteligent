@@ -14,9 +14,13 @@ gắng trả lời trong một dự án về phân tích dữ liệu bán hàng:
 •+++++ Tổng số lượng bán ra là bao nhiêu?
 •+++++ Doanh số trung bình mỗi tháng là bao nhiêu?
 •+++++ Doanh thu hàng tháng là bao nhiêu?
+•+++++ Khi nào là thời kỳ bán chạy nhất và tệ nhất?
 •+++++ Nhân khẩu học chính của khách hàng là gì?
 •+++++ Thị trường (quốc gia) nào tạo ra doanh thu trung bình cao nhất?
 •+++++ Lợi nhuận theo phân khúc là gì?
-•+++++ Khi nào là thời kỳ bán chạy nhất và tệ nhất?
 •+++++ Sản phẩm nào bán chạy nhất?
+Những sản phẩm nào công ty nên đặt hàng nhiều hơn hoặc ít hơn?
+• Công ty nên điều chỉnh chiến lược tiếp thị của mình như thế nào đối với khách hàng VIP và những khách hàng ít tham gia?
+• Công ty có nên thu hút khách hàng mới không và họ nên chi bao nhiêu tiền cho khách hàng đó?
+
 Tiếp theo: Phân tích??????
